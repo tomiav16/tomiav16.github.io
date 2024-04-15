@@ -1,0 +1,30 @@
+body{
+    background-color: #1e2326;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: auto 5rem;
+    height: 5vh;
+    color:beige;
+    display: inside;
+    justify-content: space-between;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    text-align: center;
+}
+
+nav>a{
+    text-decoration: none;
+    color: rgba(255, 255, 255);
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 12vh;
+    padding-bottom: 12vh;
+    text-align: center;
+}
+
+nav>a:hover{
+    color:#1CB698;
+    background-color: rgba(255, 255, 255, 0.261);
+    border-radius: 7px;
+}
+
